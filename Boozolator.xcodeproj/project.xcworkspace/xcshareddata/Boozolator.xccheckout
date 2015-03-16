@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B4907A57-86FE-493F-B40B-88036517376D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Boozolator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAD4C40E9655DD69AE29AE9C9274194EC5A4CC69</key>
+		<string>github.com:kevcol/bloc-boozolator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Boozolator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAD4C40E9655DD69AE29AE9C9274194EC5A4CC69</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kevcol/bloc-boozolator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAD4C40E9655DD69AE29AE9C9274194EC5A4CC69</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAD4C40E9655DD69AE29AE9C9274194EC5A4CC69</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Boozolator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
